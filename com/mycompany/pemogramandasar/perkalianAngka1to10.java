@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package perkalianAngka1to10;
+package com.mycompany.pemogramandasar;
 
 import java.util.Scanner;
 import java.lang.Math;
 
-public class PerkalianAngka {
+public class perkalianAngka1to10 {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
