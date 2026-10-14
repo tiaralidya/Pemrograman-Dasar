@@ -1,4 +1,4 @@
-package com.mycompany.pemogramandasar;
+package PenggunaanIfElse;
 
 import java.util.Scanner;
 
