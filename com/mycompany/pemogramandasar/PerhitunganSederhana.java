@@ -6,7 +6,7 @@
     // NIM : 09040626119
     // Nama : Fatimah Azzahrah Lidya
     // Modul Praktikum Bab 2
-package modulPraktikumBab2;
+package com.mycompany.pemogramandasar;
 import java.util.Scanner;
 public class PerhitunganSederhana {
     public static void main(String[] args) {
