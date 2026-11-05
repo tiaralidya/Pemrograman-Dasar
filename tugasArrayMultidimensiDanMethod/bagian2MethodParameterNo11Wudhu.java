@@ -10,13 +10,11 @@ public class bagian2MethodParameterNo11Wudhu {
         System.out.print("Masukkan jumlah mahasiswa: ");
         return input.nextInt();
     }
-
     // Meminta frekuensi wudhu dalam sehari
     public static int inputFrekuensiWudhu() {
         System.out.print("Masukkan jumlah frekuensi wudhu dalam sehari: ");
         return input.nextInt();
     }
-
     // Meminta jumlah liter air untuk sekali wudhu per orang
     public static double inputAirPerWudhu() {
         System.out.print("Masukkan jumlah liter air untuk wudhu per orang: ");
